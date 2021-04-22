@@ -28,9 +28,9 @@ var stui = {
 };
 
 if(window.console&&window.console.log){  
-	console.log('\u4f50\u4f50\u7f51\uff08\u007a\u0075\u006f\u007a\u002e\u006e\u0065\u0074\uff09\u4eff\u5236\u4f5c\u54c1');  
-	console.log('\u4f5c\u8005\uff1a\u4f50\u4f50\uff0c\u0051\u0051\uff1a\u0039\u0039\u0037\u0037\u0032\u0036\u0036\u0030\u0030');  
-	console.log("%c\u4f50\u4f50\u4eff\u5236\u8bf7\u5c0a\u91cd\u52b3\u52a8\u6210\u679c\uff0c\u52ff\u5012\u5356\u5206\u4eab\uff0c\u8c22\u8c22\uff01","color:red");  
+	console.log('\u4eba\u4eba\u5f71\u89c6');  
+	console.log('www.rrys1.com');  
+	console.log("\u81ea\u7528\u6a21\u677f\uff0c\u4e0d\u5916\u4f20","color:red");  
 }
 
 $(document).ready(function() {	
